@@ -90,6 +90,14 @@ SQL practice including Joins, CTEs, Window Functions, Stored Procedures, and opt
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com//Fazil-RM/output/snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
 ## 📊 Contribution Graph
 
 <p align="center">
