@@ -1,158 +1,230 @@
-<h1 align="center">Hi 👋, I'm Mohamed Fazil RM</h1>
+<div align="center">
 
-<p align="center">
-Data Analytics • Data Science • Mathematics • IIT Madras BS in Data Science
+# Hi 👋, I'm Mohamed Fazil RM
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Data+Analyst;Aspiring+Data+Scientist;IIT+Madras+BS+in+Data+Science;B.Sc.+Mathematics+Student;Python+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
+
+### Turning data into actionable insights through analytics, automation and software development.
+
+<p>
+<a href="https://linkedin.com/in/mohamedfazil2005">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mohamedfazilrm@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
 </p>
 
-<p align="center">
-Passionate about building data-driven solutions through analytics, visualization, automation, and software development.
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 B.Sc. Mathematics @ The New College, Chennai
 - 🎓 IIT Madras BS in Data Science
-- 📊 Aspiring Data Analyst & Data Scientist
-- 💻 Former Software Developer & Full Stack Developer Intern
-- 📈 Interested in Data Analytics, Machine Learning, Business Intelligence, and AI
-- 🌱 Currently learning Advanced SQL, Data Engineering fundamentals, and Machine Learning
-- 🚀 Looking for opportunities in Data Analytics and Data Science
+- 💼 Former Software Developer & Full Stack Developer Intern
+- 📊 Passionate about Data Analytics, Data Science and AI
+- 🌱 Currently learning SQL, Machine Learning, AWS & Data Engineering
+- 🚀 Looking for opportunities in Data Analytics & Data Science
+- ⚡ Love building real-world projects and solving business problems using data
 
 ---
 
-## 🛠 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+<p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-### Data Analytics
+<br>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-### Web Development
+<br>
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</p>
 
 ---
 
-## 🚀 Featured Projects
 
-### 📊 Smart Study
-AI-powered learning platform for students featuring study resources, AI tutor, and analytics.
+# 🚀 Featured Projects
 
-### 📈 Power BI Dashboards
-Interactive dashboards with business insights and KPI visualization.
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Smart Study
+
+AI-powered student learning platform featuring:
+
+- 📖 Study Resources
+- 🤖 AI Tutor
+- 📊 Analytics Dashboard
+- 💬 Discussion Forum
+
+</td>
+
+<td width="50%">
+
+### 📊 Power BI Dashboards
+
+Interactive dashboards for:
+
+- Business Insights
+- KPI Monitoring
+- Sales Analytics
+- Data Visualization
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🐍 Python Data Analytics
-Exploratory Data Analysis, data cleaning, visualization, and automation using Python.
+
+Projects involving:
+
+- Exploratory Data Analysis
+- Data Cleaning
+- Visualization
+- Automation
+- Reporting
+
+</td>
+
+<td width="50%">
 
 ### 💾 SQL Portfolio
-SQL practice including Joins, CTEs, Window Functions, Stored Procedures, and optimization.
+
+Practice and projects on:
+
+- Joins
+- CTEs
+- Window Functions
+- Stored Procedures
+- Query Optimization
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-## 📈 GitHub Stats
+# 🌱 Currently Learning
 
-<p align="center">
+<p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://img.shields.io/badge/Advanced_SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Engineering-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS_Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/ETL_Pipelines-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-5E35B1?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🤝 Open for Collaboration
 
-<p align="center">
+I'm always open to collaborating on:
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+- 📊 Data Analytics Projects
+- 🐍 Python Applications
+- 📈 Power BI Dashboards
+- 💾 SQL Projects
+- 🤖 AI & Machine Learning Projects
+- 🌍 Open Source Contributions
 
-</p>
+--- 
 
----
 
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com//Fazil-RM/output/snake.svg" alt="Snake Animation" />
-</p>
+<img src="https://raw.githubusercontent.com/Fazil-RM/Fazil-RM/output/snake.svg" alt="Snake Animation"/>
 
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+<a href="https://linkedin.com/in/mohamedfazil2005">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-</p>
+<a href="mailto:mohamedfazilrm@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
+<a href="https://your-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-## 📚 Currently Learning
+<a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-- Advanced SQL
-- Machine Learning
-- Data Engineering
-- ETL Pipelines
-- Cloud for Data Analytics
-- Statistics
+<a href="https://youtube.com/@YOUR_CHANNEL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
----
-
-## 🤝 Open to Collaborate On
-
-- Data Analytics Projects
-- Power BI Dashboards
-- Python Automation
-- Open Source
-- Machine Learning Projects
+</div>
 
 ---
 
-## 📫 Connect with Me
+<div align="center">
 
-📧 **Email**
+### 💡 *"Turning data into actionable insights through analytics, innovation, and continuous learning."*
 
-mohamedfazilrm@gmail.com
-
-💼 **LinkedIn**
-
-https://linkedin.com/in/mohamedfazil2005
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-"Turning data into actionable insights."
+### ⭐ Thanks for visiting my profile!
 
-</p>
+If you find my projects interesting, consider giving them a ⭐.
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:238636,100:58A6FF&height=120&section=footer"/>
+
+</div>
