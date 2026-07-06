@@ -31,45 +31,76 @@ I'm open to collaborating on:
 
 ---
 
-# 🌐 Connect With Me
+
+
 
 <div align="center">
 
+<table>
+<tr>
+
+<td width="35%" valign="middle">
+
+<h2>Let's Connect</h2>
+
+<table>
+<tr>
+<td>
 <a href="mailto:mohamedfazilrm@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="58"/>
 </a>
+</td>
 
-<a href="https://linkedin.com/in/mohamedfazil2005">
-<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+<td width="20"></td>
+
+<td>
+<a href="https://www.linkedin.com/in/fazil-rm/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="58"/>
 </a>
+</td>
+</tr>
 
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram" height="48"/>
+<tr><td height="18"></td></tr>
+
+<tr>
+<td>
+<a href="https://www.instagram.com/__fazil_rm__/">
+<img src="https://skillicons.dev/icons?i=instagram" height="58"/>
 </a>
+</td>
 
-<a href="https://youtube.com/@YOUR_CHANNEL">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" height="48"/>
+<td></td>
+
+<td>
+<a href="https://www.youtube.com/@Fazil_RM">
+<img src="https://cdn.simpleicons.org/youtube/FF0000" height="58"/>
 </a>
+</td>
+</tr>
 
-<a href="https://your-portfolio.vercel.app">
-<img src="https://cdn.simpleicons.org/vercel/ffffff" height="48"/>
+<tr><td height="18"></td></tr>
+
+<tr>
+<td colspan="3">
+<a href="https://mohamedfazilrm.dev/">
+<img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/69e1bbf24215e4e638b196aa/0x0.png" height="58"/>
 </a>
+</td>
+</tr>
 
-</div>
+</table>
 
----
+</td>
 
-
-<div align="center">
+<td width="65%" align="center">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 
-</div>
+</td>
 
----
+</tr>
+</table>
 
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/Fazil-RM/Fazil-RM/output/snake.svg" alt="Snake Animation"/>
 
