@@ -100,7 +100,7 @@ I'm open to collaborating on:
 
 <td width="65%" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
 
 </td>
 
