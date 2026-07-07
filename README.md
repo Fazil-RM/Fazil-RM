@@ -79,11 +79,17 @@ I'm open to collaborating on:
 </tr>
 
 <tr><td height="18"></td></tr>
-
 <tr>
-<td colspan="3">
+<td>
 <a href="https://mohamedfazilrm.dev/">
 <img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/69e1bbf24215e4e638b196aa/0x0.png" height="58"/>
+</a>
+</td>
+<td width="20"></td>
+
+<td>
+<a href="https://leetcode.com/u/Fazil-RM/">
+<img src="https://cdn.simpleicons.org/leetcode/ffffff" height="58"/>
 </a>
 </td>
 </tr>
